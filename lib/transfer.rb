@@ -43,15 +43,3 @@ class Transfer
   
 end
 
-# avi = BankAccount.new("Avi") 
-# amanda = BankAccount.new("Amanda")
-# transfer = Transfer.new(amanda, avi, 50)
-# bad_transfer = Transfer.new(amanda, avi, 4000)
-# transfer.execute_transaction
-# puts avi.balance
-# puts amanda.balance
-# puts transfer.status
-# transfer.execute_transaction
-# puts avi.balance
-# puts amanda.balance
-# puts transfer.status
